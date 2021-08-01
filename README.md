@@ -1,4 +1,4 @@
-## Welcome to an simple introduction to statistics!
+## Welcome to a very simple introduction to statistics!
 
 You can use the [editor on GitHub](https://github.com/Lukeul1/SimpleStats/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
